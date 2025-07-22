@@ -39,3 +39,4 @@ age_2=int(9)
 age_3=int(10)
 age_4=int(5)
 print(age_1+age_2+age_3+age_4)
+

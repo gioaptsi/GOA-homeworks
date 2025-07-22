@@ -34,5 +34,3 @@ print(number_1+number_2+number_3+number_4+number_5)
 numb1=("gio")
 numb2=(10)
 print(numb1*numb2)
-
-print(numb1-numb2)
