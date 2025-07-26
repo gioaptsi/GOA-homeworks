@@ -1,0 +1,6 @@
+print(2>1 or 20==21)
+print(40>20 and 50==50)
+print(11==5 or 6<7)
+print(15>20 and 9==5)
+print(60<20 or 9>20)
+print(50==20 and 9==10)
