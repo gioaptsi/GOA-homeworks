@@ -23,13 +23,6 @@ print(word4 + int1)
 #and ის გამოყენებისას თუ ერთი პირობა იქნება false პასუხი იქნება false
 #or ის გამოყენებისას თუ ერთი პირობა იქნება true პასუხი იქნება true
 
-     (and)                             (or)
-True and True --true       True or True --true     
-True and False -- false     True or False -- true
-False and True -- false     False or True -- true
-False and False --false     False or False -- False
-
-
 print(true and true)
 print(true or true)
 print(false and false)
