@@ -16,3 +16,26 @@ word1=input("enter first word")
 word2=input("enter second word")
 word3=input("enter third word")
 int1= int(input("enter your number"))
+word4=word1+word2
+print(word4 + int1)
+
+#ჩვცენ ვისწავლეთ or და and 
+#and ის გამოყენებისას თუ ერთი პირობა იქნება false პასუხი იქნება false
+#or ის გამოყენებისას თუ ერთი პირობა იქნება true პასუხი იქნება true
+
+     (and)                             (or)
+True and True --true       True or True --true     
+True and False -- false     True or False -- true
+False and True -- false     False or True -- true
+False and False --false     False or False -- False
+
+
+print(true and true)
+print(true or true)
+print(false and false)
+print(false or false)
+print(true or false)
+print(false and true)
+print(true or false)
+print(false and true)
+
